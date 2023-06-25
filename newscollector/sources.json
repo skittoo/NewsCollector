@@ -20,8 +20,6 @@
  "MarketWatch":
 	{"rss": ["http://feeds.marketwatch.com/marketwatch/topstories/",
 			 "http://feeds.marketwatch.com/marketwatch/marketpulse/"]},
- "Fortune":
-	{"rss": ["https://fortune.com/feed"]},
 	
  "Wall Street Journal":
 	{"rss": ["https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
